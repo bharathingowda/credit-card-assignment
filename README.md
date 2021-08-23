@@ -1,4 +1,11 @@
-## credit-car-assement
+## credit-card-assement
+ - To install sass :
+    npm install -g sass
+   Install on Mac OS X or Linux (Homebrew)
+      If you use the Homebrew package manager for Mac OS X or Linux, you can install Dart Sass by running
+      brew install sass/sass/sass
+
+
 ## Libraries used
 
 -   [react](https://github.com/facebook/react)
